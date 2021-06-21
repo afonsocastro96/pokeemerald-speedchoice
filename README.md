@@ -1,5 +1,14 @@
 # Pokémon Emerald Speedchoice Edition
 
+## Sceptross' changes from Revo's original Speedchoice ROM:
+
+- Sweet Scent's animation has been removed for faster usage
+- Rock Smash only generates 2 encounters, with 60 and 40 percent probability each
+- The rods have once again been split up, but they will still generate the same two encounters across all three rods
+- The easy evolution quality of life changes from Fire Red have been ported to Emerald (Espeon and Umbreon evolving via stone and Feebas evolving at level 35).
+- Fixed bug where "Evo Every Level" options were accidentally swapped
+- The bicycle can no longer be used indoors
+
 This is a decompilation of Pokémon Emerald with changes made to be more speedrun friendly.
 
 * [Original decompilation by pret](https://github.com/pret/pokeemerald)
