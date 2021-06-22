@@ -286,6 +286,8 @@ static u8 ChooseWildMonIndex_Fishing(u8 rod)
                 wildMonIndex = 9;
             break;
     }
+
+    return wildMonIndex;
 /*
         switch (rod)
         {
